@@ -1,2 +1,3 @@
 # Capstone-Project
-T-cycle is a Non-governmental organization and our aim is to create a platform for donating old gadgets to aspiring tech professionals, aiming to extend electronics' lifecycles, reduce e-waste, and provide opportunities for those unable to afford tech tools
+In today's digital age, access to technology is crucial for personal and professional development. However, a significant barrier exists for individuals in the tech community who cannot afford laptops, hindering their career opportunities. Also , The lack of accessible and affordable solutions for responsible e-waste disposal hinders individuals and organizations from properly discarding their used electronic devices.
+T-cycle is a non-governmental organization and our aim is to create a platform for donating old gadgets to aspiring tech professionals, aiming to extend electronics' lifecycles, reduce e-waste, and provide opportunities for those unable to afford tech tools
